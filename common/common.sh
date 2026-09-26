@@ -221,7 +221,24 @@ print_failed() {
 print_footer() {
     echo -e "\n${DIM}─────────────────────────────────────────────────────${NC}"
     echo -e "${DIM}  CIRCUIT_IQ — circuits to silicon — Made with ❤️${NC}"
+    echo -e "${DIM}  Provided AS-IS. Use at your own risk.${NC}"
     echo -e "${DIM}─────────────────────────────────────────────────────${NC}\n"
+}
+
+print_disclaimer() {
+    echo -e "${YELLOW}"
+    echo "┌─────────────────────────────────────────────────────────┐"
+    echo "│                    ⚠️  DISCLAIMER                       │"
+    echo "│                                                         │"
+    echo "│  These scripts are provided AS-IS without any warranty. │"
+    echo "│  The author (CIRCUIT_IQ) is NOT responsible for any     │"
+    echo "│  damage, data loss, system instability, security        │"
+    echo "│  issues, or other consequences from using these scripts.│"
+    echo "│                                                         │"
+    echo "│  By continuing, you accept full responsibility.         │"
+    echo "│  Use at your own risk.                                  │"
+    echo "└─────────────────────────────────────────────────────────┘"
+    echo -e "${NC}"
 }
 
 # ============================================================

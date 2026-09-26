@@ -19,3 +19,27 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--- ADDITIONAL DISCLAIMER ---
+
+These installation scripts modify system configurations, install software
+packages, and require root/sudo privileges. The scripts also install Docker,
+which modifies system groups and user permissions.
+
+BY USING THESE SCRIPTS, YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT:
+
+1. The author (CIRCUIT_IQ) is NOT responsible for any damage, data loss,
+   system instability, security vulnerabilities, or any other adverse
+   consequences resulting from the use or misuse of these scripts.
+
+2. You are using these scripts entirely at your own risk.
+
+3. You have reviewed and understood the scripts before executing them.
+
+4. You are responsible for maintaining backups of your system before
+   running any installation scripts.
+
+5. These scripts are intended solely for educational, research, and
+   development purposes related to Open-Source VLSI/ASIC design.
+
+THE AUTHOR ASSUMES ZERO LIABILITY FOR ANY DAMAGES WHATSOEVER.

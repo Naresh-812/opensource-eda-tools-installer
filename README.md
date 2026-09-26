@@ -301,13 +301,42 @@ Made with ❤️
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Disclaimer & Limitation of Liability
 
-These scripts are provided "as is" without warranties of any kind. The author is not responsible for any damage, data loss, or system issues resulting from use of these scripts.
+> **IMPORTANT — PLEASE READ BEFORE USING THESE SCRIPTS**
 
-- Review scripts before running them
-- Test in a VM or backup environment first
-- Intended for educational, research, and development purposes
+These scripts are provided **"AS IS"** without any warranties or guarantees of any kind, either **express or implied**, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+**The author (CIRCUIT_IQ) shall NOT be held responsible, liable, or accountable for any:**
+
+- 🔴 System damage, crashes, or instability
+- 🔴 Data loss or corruption
+- 🔴 Security vulnerabilities or breaches
+- 🔴 Configuration conflicts or software breakage
+- 🔴 Disk space consumption or resource usage
+- 🔴 Network bandwidth usage during downloads
+- 🔴 Docker container or permission-related issues
+- 🔴 Any direct, indirect, incidental, special, or consequential damages
+
+**By using these scripts, you acknowledge and agree that:**
+
+1. You are using them **entirely at your own risk**
+2. You have **reviewed the scripts** before executing them
+3. You understand they install software and modify system configurations
+4. You understand they require **sudo/root access** for installations
+5. You understand Docker installation modifies system groups and permissions
+6. You are responsible for ensuring **backups** exist before running these scripts
+7. You are responsible for verifying **compatibility** with your system
+
+**Recommendations:**
+- ✅ Always review scripts before running them
+- ✅ Test in a **Virtual Machine** or disposable environment first
+- ✅ Maintain system backups before installation
+- ✅ Ensure adequate disk space (see [Storage Guide](docs/STORAGE_GUIDE.md))
+
+These scripts are intended **solely for educational, research, and development purposes** related to Open-Source VLSI and ASIC Design workflows.
+
+**Use at your own risk. The author assumes zero liability.**
 
 ---
 
