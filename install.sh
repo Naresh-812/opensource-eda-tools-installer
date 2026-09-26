@@ -97,7 +97,6 @@ done
 show_menu() {
     clear
     print_banner
-    print_disclaimer
 
     echo -e "${BOLD}  Select what to install:${NC}\n"
 
