@@ -53,6 +53,7 @@ If you want more details about the tools, how much storage they require, or how 
 
 For more detailed information, please refer to:
 - **[Storage Guide](docs/STORAGE_GUIDE.md):** Disk space and build time estimates for each tool.
+- **[Windows WSL Guide](docs/WINDOWS_WSL_GUIDE.md):** Step-by-step setup for Windows users.
 - **[Troubleshooting](docs/TROUBLESHOOTING.md):** Common errors, WSL setup, Docker issues, and fixes.
 
 ---
