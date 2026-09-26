@@ -51,7 +51,7 @@ print_banner() {
     echo "║     ⚡  Open Source EDA Tools Installer  ⚡               ║"
     echo "║                                                           ║"
     echo "║     Author : CIRCUIT_IQ                                   ║"
-    echo "║     Brand  : circuits to silicon                          ║"
+    echo "║     Theme  : circuits to silicon                          ║"
     echo "║     Made with ❤️                                           ║"
     echo "║                                                           ║"
     echo "╚═══════════════════════════════════════════════════════════╝"
@@ -188,9 +188,9 @@ print_tool_info() {
     if command -v "$CMD" >/dev/null 2>&1; then
         local VERSION
         VERSION=$(
-            "$CMD" --version 2>/dev/null | head -n 1 || \
-            "$CMD" -version 2>/dev/null | head -n 1 || \
-            "$CMD" -v 2>/dev/null | head -n 1 || true
+            timeout 2s "$CMD" --version < /dev/null 2>/dev/null | head -n 1 || \
+            timeout 2s "$CMD" -version < /dev/null 2>/dev/null | head -n 1 || \
+            timeout 2s "$CMD" -v < /dev/null 2>/dev/null | head -n 1 || true
         )
         echo -e "  ${GREEN}✅${NC} ${BOLD}$TOOL_NAME${NC} → $(command -v "$CMD") ${DIM}${VERSION:+($VERSION)}${NC}"
         return 0
