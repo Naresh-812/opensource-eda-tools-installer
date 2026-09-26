@@ -58,6 +58,12 @@ For more detailed information, please refer to:
 
 ---
 
+---
+
+## Support
+
+If you find this project helpful, please give us a ⭐️ on GitHub! It helps others discover the tools and supports the open-source community.
+
 ## Disclaimer
 
 These scripts have been carefully written and tested to help the VLSI community set up open-source EDA tools with ease. We strive to provide reliable and beginner-friendly installation scripts.
