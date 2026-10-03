@@ -1,6 +1,6 @@
 # 📦 RTL Design & Simulation
 
-### CIRCUIT_IQ — circuits to silicon
+### Naresh Lankalapalli
 
 Tools for writing, synthesizing, and simulating digital RTL designs.
 

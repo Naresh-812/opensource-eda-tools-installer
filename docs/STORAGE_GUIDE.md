@@ -1,6 +1,6 @@
 # 💾 Storage Requirements Guide
 
-### by **CIRCUIT_IQ** — *circuits to silicon*
+### by Naresh Lankalapalli
 
 ---
 
@@ -59,4 +59,4 @@
 
 ---
 
-*CIRCUIT_IQ — circuits to silicon — Made with ❤️*
+*Naresh Lankalapalli — Made with ❤️*

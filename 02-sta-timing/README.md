@@ -1,6 +1,6 @@
 # ⏱️ Static Timing Analysis
 
-### CIRCUIT_IQ — circuits to silicon
+### Naresh Lankalapalli
 
 Tools for analyzing timing on gate-level netlists.
 

@@ -1,6 +1,6 @@
 # 🔧 Troubleshooting Guide
 
-### by **CIRCUIT_IQ** — *circuits to silicon*
+### by Naresh Lankalapalli
 
 ---
 
@@ -165,4 +165,4 @@ Or open a new terminal.
 
 ---
 
-*CIRCUIT_IQ — circuits to silicon — Made with ❤️*
+*Naresh Lankalapalli — Made with ❤️*

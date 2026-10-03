@@ -1,6 +1,6 @@
 # 🚀 OpenLane — RTL-to-GDSII
 
-### CIRCUIT_IQ — circuits to silicon
+### Naresh Lankalapalli
 
 OpenLane is a complete automated RTL-to-GDSII flow running inside Docker.
 

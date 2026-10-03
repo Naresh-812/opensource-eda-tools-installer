@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install SKY130 Launcher Wrappers for Magic & Xschem
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : Creates smart launcher wrappers for Magic and
 #                 Xschem that let users choose between normal mode
@@ -32,10 +31,10 @@ fi
 if [ -f /usr/local/bin/xschem_bin ]; then
     sudo tee /usr/local/bin/xschem > /dev/null << 'XSCHEM_WRAPPER'
 #!/bin/bash
-# Xschem Launcher — CIRCUIT_IQ — circuits to silicon
+# Xschem Launcher — Naresh Lankalapalli
 echo "╔══════════════════════════════════╗"
 echo "║       XSCHEM LAUNCHER           ║"
-echo "║   CIRCUIT_IQ • circuits to Si   ║"
+echo "║   Naresh Lankalapalli   ║"
 echo "╠══════════════════════════════════╣"
 echo "║  1. Normal Xschem               ║"
 echo "║  2. SKY130-enabled Xschem       ║"
@@ -82,10 +81,10 @@ fi
 if [ -f /usr/local/bin/magic_bin ]; then
     sudo tee /usr/local/bin/magic > /dev/null << 'MAGIC_WRAPPER'
 #!/bin/bash
-# Magic Launcher — CIRCUIT_IQ — circuits to silicon
+# Magic Launcher — Naresh Lankalapalli
 echo "╔══════════════════════════════════╗"
 echo "║       MAGIC LAUNCHER            ║"
-echo "║   CIRCUIT_IQ • circuits to Si   ║"
+echo "║   Naresh Lankalapalli   ║"
 echo "╠══════════════════════════════════╣"
 echo "║  1. Normal Magic                ║"
 echo "║  2. SKY130-enabled Magic        ║"

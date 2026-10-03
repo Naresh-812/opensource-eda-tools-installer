@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install Netgen — LVS (Layout vs. Schematic)
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : Netgen is a tool for comparing netlists
 #                 (Layout vs. Schematic verification / LVS).

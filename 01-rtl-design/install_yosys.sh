@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install Yosys — RTL Synthesis Framework
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : Yosys is an open-source RTL synthesis tool.
 #                 It converts Verilog RTL code into gate-level netlists.

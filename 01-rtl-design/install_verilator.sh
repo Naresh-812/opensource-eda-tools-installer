@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install Verilator 5.038 — Fast Verilog/SystemVerilog Simulator
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : Verilator compiles synthesizable Verilog/SystemVerilog
 #                 into fast C++/SystemC models for simulation.

@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install OpenSTA — Static Timing Analysis
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : OpenSTA performs static timing analysis on
 #                 gate-level netlists to check setup/hold violations.

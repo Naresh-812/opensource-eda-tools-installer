@@ -1,6 +1,6 @@
 # 🎁 Extra Tools
 
-### CIRCUIT_IQ — circuits to silicon
+### Naresh Lankalapalli
 
 | Tool | Purpose | Script | Storage |
 |------|---------|--------|---------|

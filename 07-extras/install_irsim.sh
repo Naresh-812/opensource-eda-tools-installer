@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install IRSIM — Switch-Level Simulator
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : IRSIM is a switch-level simulator for MOS circuits.
 #  Used in      : Digital Design → Switch-level simulation

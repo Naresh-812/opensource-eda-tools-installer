@@ -1,6 +1,6 @@
 # Open Source EDA Tools Installer
 
-**CIRCUIT_IQ** — circuits to silicon
+Naresh Lankalapalli
 
 This repository provides an automated, easy-to-use installer for open-source ASIC design tools on Ubuntu. It covers the complete flow from RTL design down to GDSII layout.
 

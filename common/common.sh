@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Common Utilities for Open Source EDA Tools Installer
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 # ============================================================
 
 # ---- Colors ----
@@ -50,9 +49,7 @@ print_banner() {
     echo "║                                                           ║"
     echo "║     ⚡  Open Source EDA Tools Installer  ⚡               ║"
     echo "║                                                           ║"
-    echo "║     CIRCUIT_IQ                                            ║"
-    echo "║     circuits to silicon                                   ║"
-    echo "║     Made with ❤️                                           ║"
+    echo "║     Naresh Lankalapalli — Made with ❤️                     ║"
     echo "║                                                           ║"
     echo "╚═══════════════════════════════════════════════════════════╝"
     echo -e "${NC}"
@@ -220,7 +217,7 @@ print_failed() {
 
 print_footer() {
     echo -e "\n${DIM}─────────────────────────────────────────────────────${NC}"
-    echo -e "${DIM}  CIRCUIT_IQ — circuits to silicon — Made with ❤️${NC}"
+    echo -e "${DIM}  Naresh Lankalapalli — Made with ❤️${NC}"
     echo -e "${DIM}─────────────────────────────────────────────────────${NC}\n"
 }
 
@@ -281,7 +278,7 @@ for arg in "$@"; do
             echo "  --skip-deps   Skip installing system dependencies"
             echo "  -h, --help    Show this help message"
             echo ""
-            echo "CIRCUIT_IQ — circuits to silicon — Made with ❤️"
+            echo "Naresh Lankalapalli — Made with ❤️"
             exit 0
             ;;
     esac

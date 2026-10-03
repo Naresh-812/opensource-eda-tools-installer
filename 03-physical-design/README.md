@@ -1,6 +1,6 @@
 # 🏭 Physical Design (Place & Route)
 
-### CIRCUIT_IQ — circuits to silicon
+### Naresh Lankalapalli
 
 Tools for the physical design (backend) stage of ASIC design.
 

@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install OpenROAD Dependencies
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : Installs all the libraries OpenROAD needs:
 #                 Abseil, YAML-CPP, CUDD, GTest, SWIG, OR-Tools,
@@ -163,7 +162,7 @@ log_info "Setting up environment variables..."
 grep -q 'EDA_TOOLS_ENV' ~/.bashrc 2>/dev/null || {
     cat >> ~/.bashrc << 'ENVBLOCK'
 
-# ---- EDA Tools Environment (CIRCUIT_IQ) ---- EDA_TOOLS_ENV
+# ---- EDA Tools Environment (Naresh Lankalapalli) ---- EDA_TOOLS_ENV
 export PATH=$HOME/.local/bin:$PATH
 export LD_LIBRARY_PATH=/usr/local/lib:${LD_LIBRARY_PATH:-}
 export LIBRARY_PATH=/usr/local/lib:${LIBRARY_PATH:-}

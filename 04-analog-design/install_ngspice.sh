@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install Ngspice — SPICE Circuit Simulator
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : Ngspice is an open-source SPICE simulator for
 #                 analog, digital, and mixed-signal circuit simulation.

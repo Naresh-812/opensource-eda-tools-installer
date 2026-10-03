@@ -1,6 +1,6 @@
 # 📐 Analog / Custom IC Design
 
-### CIRCUIT_IQ — circuits to silicon
+### Naresh Lankalapalli
 
 Tools for analog and custom IC design, simulation, and verification.
 

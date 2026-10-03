@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install Icarus Verilog — Verilog Simulation & Synthesis
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : Icarus Verilog (iverilog) is an open-source Verilog
 #                 simulation and synthesis tool for digital design.

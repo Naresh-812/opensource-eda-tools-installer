@@ -1,6 +1,6 @@
 # 🧬 SKY130 Process Design Kit
 
-### CIRCUIT_IQ — circuits to silicon
+### Naresh Lankalapalli
 
 The SkyWater SKY130 is a 130nm open-source PDK.
 

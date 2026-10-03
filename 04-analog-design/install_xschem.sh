@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install Xschem — Schematic Editor
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : Xschem is a schematic capture tool designed for
 #                 analog, digital, and mixed-signal circuit design.

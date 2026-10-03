@@ -1,6 +1,6 @@
 # Windows WSL Setup Guide for EDA Tools
 
-**CIRCUIT_IQ** — circuits to silicon
+Naresh Lankalapalli
 
 This guide will walk you through setting up these EDA tools on a Windows machine using Windows Subsystem for Linux (WSL). By the end, you'll be able to run Linux-based ASIC tools seamlessly on your Windows PC.
 

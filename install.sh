@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Open Source EDA Tools Installer — Master Installer
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  Interactive menu-driven installer for all EDA tools.
 #  Users can pick categories or individual tools.
@@ -162,7 +161,7 @@ while true; do
             a|A) install_all ;;
             v|V) bash "$SCRIPT_DIR/verify.sh" ;;
             d|D) install_base_dependencies ;;
-            q|Q) echo -e "\n${DIM}Goodbye! — CIRCUIT_IQ${NC}\n"; exit 0 ;;
+            q|Q) echo -e "\n${DIM}Goodbye! — Naresh Lankalapalli${NC}\n"; exit 0 ;;
             *)   log_warn "Unknown option: $choice" ;;
         esac
     done
@@ -174,7 +173,7 @@ while true; do
     echo ""
     read -p "  Press Enter to return to menu (or 'q' to quit): " cont
     if [ "$cont" = "q" ] || [ "$cont" = "Q" ]; then
-        echo -e "\n${DIM}Goodbye! — CIRCUIT_IQ${NC}\n"
+        echo -e "\n${DIM}Goodbye! — Naresh Lankalapalli${NC}\n"
         exit 0
     fi
 done

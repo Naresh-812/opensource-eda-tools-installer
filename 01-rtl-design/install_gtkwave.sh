@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install GTKWave — Waveform Viewer
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : GTKWave is a waveform viewer for VCD, LXT, FST
 #                 and other signal dump formats from simulations.

@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install SKY130 OpenPDKs — Process Design Kit
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : Installs the SkyWater SKY130 open-source PDK
 #                 through the OpenPDKs framework. Includes

@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install OpenROAD — Open-source Place & Route
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : OpenROAD is an autonomous digital layout
 #                 (place-and-route) tool for ASIC design.

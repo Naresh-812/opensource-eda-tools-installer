@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install Magic VLSI — Layout Editor + DRC/LVS
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : Magic is a VLSI layout editor with built-in
 #                 DRC (Design Rule Check), extraction, and LVS.

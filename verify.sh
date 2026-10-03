@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Verify All Installed EDA Tools
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 # ============================================================
 set -uo pipefail
 

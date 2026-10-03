@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install RISC-V GCC Cross-Compiler Toolchain
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : Installs the RISC-V bare-metal GCC cross-compiler
 #                 for compiling programs targeting RISC-V processors.

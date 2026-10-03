@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install Docker — Container Runtime
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : Docker is a container platform. OpenLane runs
 #                 inside a Docker container for reproducible builds.

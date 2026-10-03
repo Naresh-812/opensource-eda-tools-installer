@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install KLayout — Layout Viewer & Editor
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : KLayout is a layout viewer and editor for
 #                 GDSII and OASIS file formats.

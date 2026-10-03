@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install OpenTimer — Static Timing Analysis
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : OpenTimer is a high-performance static timing
 #                 analysis tool with incremental timing updates.

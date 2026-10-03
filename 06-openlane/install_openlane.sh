@@ -1,8 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  Install OpenLane — Full RTL-to-GDSII Flow
-#  Author  : CIRCUIT_IQ — circuits to silicon
-#  Made with ❤️
+#  Author  : Naresh Lankalapalli — Made with ❤️
 #
 #  What it does : OpenLane is an automated RTL-to-GDSII flow
 #                 that uses OpenROAD, Yosys, Magic, and more
@@ -74,7 +73,7 @@ log_step 5 $TOTAL_STEPS "Creating OpenLane launcher command..."
 sudo bash -c "cat > /usr/local/bin/openlane << 'LAUNCHER_EOF'
 #!/bin/bash
 
-# OpenLane Launcher — CIRCUIT_IQ — circuits to silicon
+# OpenLane Launcher — Naresh Lankalapalli
 
 OPENLANE_ROOT=\"\${OPENLANE_ROOT:-$OPENLANE_DIR}\"
 USER_OL_DIR=\"\$HOME/OpenLaneUser\"
@@ -88,7 +87,7 @@ if [ ! -d \"\$USER_OL_DIR/designs/spm\" ]; then
 fi
 
 echo \"╔══════════════════════════════════════╗\"
-echo \"║  OpenLane — CIRCUIT_IQ              ║\"
+echo \"║  OpenLane — Naresh Lankalapalli              ║\"
 echo \"║  circuits to silicon                ║\"
 echo \"╠══════════════════════════════════════╣\"
 echo \"║  User     : \$USER\"
