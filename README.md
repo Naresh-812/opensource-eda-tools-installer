@@ -12,7 +12,7 @@ If you are a beginner, you don't need to worry about complex build steps. Just r
 
 1. Clone the repository and enter the directory:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/opensource-eda-tools-installer.git
+   git clone https://github.com/Naresh-812/opensource-eda-tools-installer.git
    cd opensource-eda-tools-installer
    ```
 
